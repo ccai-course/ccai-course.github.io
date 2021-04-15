@@ -8,6 +8,9 @@
 @import 'staffer';
 
 // Overrides
+$link-color: $green-000 !default;
+$btn-primary-color: $green-100 !default;
+
 a abbr[title] {
   border-bottom: none;
 }

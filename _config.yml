@@ -17,11 +17,11 @@ title: CCAI Course
 tagline: Learn ML to Impact Climate Change
 description: A modular course introducing Machine Learning with Climate Science and Applications Examples, taught by Lauren Kuntz and Genevieve Patterson, CCAI
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://ccai-course.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'http://ccai-course.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
-remote_theme: pmarsceill/just-the-docs@v0.3.3
+# remote_theme: pmarsceill/just-the-docs@v0.3.3
 color_scheme: light
 search_enabled: true
 heading_anchors: true
