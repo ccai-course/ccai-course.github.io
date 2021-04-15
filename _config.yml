@@ -20,8 +20,21 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://ccai-course.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
+# Github Pages
+lsi: false
+safe: true
+source: ccai-course/ccai-course.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+
 # Theme settings
-# remote_theme: pmarsceill/just-the-docs@v0.3.3
+remote_theme: pmarsceill/just-the-docs@v0.3.3
 color_scheme: light
 search_enabled: true
 heading_anchors: true
