@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: Climate Change AI Course 2021
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: CCAI Course
 ---
 
 # {{ site.tagline }}

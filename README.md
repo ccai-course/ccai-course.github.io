@@ -1,3 +1,7 @@
+# CCAI Course
+
+This website is for the CCAI Climate Change and ML course, under development in Spring 2021. The info below is from the template this webpage is built on.
+
 # Just the Class
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
