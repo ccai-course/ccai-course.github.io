@@ -20,17 +20,8 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://ccai-course.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
-# Github Pages
-lsi: false
-safe: true
-source: ccai-course/ccai-course.github.io
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/images/logo_large_green.png"
 
 
 # Theme settings
@@ -41,8 +32,14 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   CCAI:
-    - 'https://climatechange.ai'
-footer_content:
+    - 'http://climatechange.ai'
+footer_content: "Copyright &copy; 2021 Climate Change AI."
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: ccai
 
 # Collections for website data
 collections:
