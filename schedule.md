@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Schedule
-description: The weekly event schedule.
+description: The course event schedule.
 ---
 
-# Weekly Schedule
+# Course Schedule
 
 {% for schedule in site.schedules %}
 {{ schedule }}

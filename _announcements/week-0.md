@@ -1,8 +1,7 @@
 ---
-title: Week 0 Announcement
+title: Summer School Announcement
 week: 0
-date: 2019-04-01
+date: 2021-05-09
 ---
 
-Hello world!
-{: .fs-5 }
+The CCAI Course will have it's first live session at [NSERC Create LEADS Summer School](https://create.futureearth.org/) May 21-25, 2021. Course materials will be available on this site for participants and anyone who wants to follow along!
