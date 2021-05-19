@@ -1,7 +1,5 @@
 ---
 timeline:
-  - '9:00 AM'
-  - '9:30 AM'
   - '10:00 AM'
   - '10:30 AM'
   - '11:00 AM'
@@ -10,57 +8,32 @@ timeline:
   - '12:30 PM'
   - '1:00 PM'
   - '1:30 PM'
-  - '2:00 PM'
-  - '2:30 PM'
-  - '3:00 PM'
-  - '3:30 PM'
-  - '4:00 PM'
-  - '4:30 PM'
-  - '5:00 PM'
-  - '5:30 PM'
 schedule:
-  - name: Monday
+  - name: 
+  - name: Friday 5/21
     events:
-      - name: Lecture
-        start: 9:30 AM
+      - name: AI/ML 101
+        start: 10:00 AM
         end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Tuesday
-  - name: Wednesday
+      - name: Tackling Climate Change Paper
+        start: 10:35 AM
+        end: 11:30 AM
+      - name: Module 1.0 Getting Started
+        start: 11:45 AM
+        end: 12:15 PM
+      - name: Module 1.1 Has Climate Changed Before?
+        start: 12:15 PM
+        end: 1:00 PM
+  - name: Tuesday 5/25
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Thursday
-  - name: Friday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Module 1.1 Has Climate Changed Before?
+        start: 10:00 AM
+        end: 10:55 AM
+      - name: Module 1.2 Fitting a Prior Model for Earth's Climate
+        start: 11:00 AM
+        end: 11:45 AM
+      - name: Module 1.3 What's Earth's Climate like today?
+        start: 12:00 PM
+        end: 1:00 PM
+
 ---

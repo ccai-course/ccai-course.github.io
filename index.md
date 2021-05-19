@@ -6,8 +6,8 @@ seo:
   type: Course
   name: CCAI Course
 ---
-
 # {{ site.tagline }}
+{: background-image: url("images/snow_mountain.jpg")}
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }

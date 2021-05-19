@@ -1,9 +1,9 @@
 ---
 name: Lauren Kuntz
 role: Instructor
-email: 
+email: lauren@climatechange.ai
 website: https://www.linkedin.com/in/lauren-kuntz-8b86a588/
 photo: lauren.jpg
 ---
 
-[Schedule an office hour appointment](mailto:laurenkuntz@linkedin.com){: .btn .btn-outline }
+[Schedule an office hour appointment](mailto:lauren@climatechange.ai){: .btn .btn-outline }
