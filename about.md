@@ -18,7 +18,7 @@ description: >-
 
 ## About
 
-This course is created by members of the non-profit, all volunteer group [Climage Change AI](http://climatechange.ai/). We hope these course materials will help climate scientist, climate industry engineers, or anyone new to programming and machine learning learn techniques
+This course is created by members of the volunteer association [Climage Change AI](http://climatechange.ai/). We hope these course materials will help climate scientist, climate industry engineers, or anyone new to programming and machine learning learn techniques
 for applying AI to Climate Change problems.
 
 ## Lecture
