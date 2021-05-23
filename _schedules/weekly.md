@@ -9,7 +9,7 @@ timeline:
   - '1:00 PM'
   - '1:30 PM'
 schedule:
-  - name: 
+  - name:
   - name: Friday 5/21
     events:
       - name: AI/ML 101
@@ -26,14 +26,17 @@ schedule:
         end: 1:00 PM
   - name: Tuesday 5/25
     events:
-      - name: Module 1.1 Has Climate Changed Before?
+      - name: Catch Up Q&A
         start: 10:00 AM
-        end: 10:55 AM
-      - name: Module 1.2 Fitting a Prior Model for Earth's Climate
-        start: 11:00 AM
-        end: 11:45 AM
-      - name: Module 1.3 What's Earth's Climate like today?
-        start: 12:00 PM
-        end: 1:00 PM
+        end: 10:15 AM
+      - name: Climate Science Introduction
+        start: 10:15 AM
+        end: 11:00 AM
+      - name: Notebook Workshops (Intro (1.1) & Advanced (1.4))
+        start: 11:15 AM
+        end: 12:15 PM
+      - name: Climate Change Mitigation Introduction and Q&A
+        start: 12:30 PM
+        end: 1:15 PM
 
 ---
