@@ -16,4 +16,4 @@ The main slide deck for this course is [here](https://drive.google.com/file/d/1k
 * Notebook 1.3 [What’s Earth's Climate Like Today?](https://drive.google.com/file/d/1cgdTl7Z2Qq7-LlvLcvGfRl8OSOAYh-I3/view?usp=sharing)
 * Notebook 1.4 [Where is Climate Going?](https://drive.google.com/file/d/1Vo1-WYx7MtudFiXIjQtqalFeOkCCS41N/view?usp=sharing)
 
-Comming Soon: Modules about Mitigation and Adaptation
+Coming Soon: Modules about Mitigation and Adaptation
